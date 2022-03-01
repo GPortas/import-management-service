@@ -1,1 +1,9 @@
 /.project
+target
+
+# OS generated filesr
+.DS_Store
+
+# IntelliJ
+*.iml
+.idea
