@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ImportmanagementserviceApplication {
+public class ImportManagementServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ImportmanagementserviceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ImportManagementServiceApplication.class, args);
+    }
 
 }
