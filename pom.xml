@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>edu.harvard</groupId>
-    <artifactId>importmanagementservice</artifactId>
+    <artifactId>import-management-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>importmanagementservice</name>
+    <name>import-management-service</name>
     <description>Dataverse-DRS Import Management Service</description>
 
     <properties>
